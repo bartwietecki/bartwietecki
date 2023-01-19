@@ -1,4 +1,4 @@
-### Hi there 👋, Bart Wietecki
+### Hi there 👋, Bartek Wietecki
 #### Java Developer Wannabe
 ![Java Developer Wannabe](https://miro.medium.com/max/720/1*ihSYTw1xfPiIAqMzBf4g6g.webp)
 
