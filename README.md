@@ -6,7 +6,7 @@ I'm Bartek from Poland, and I'm currently learning Java ☕
 
 Skills: JAVA / GIT
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page... 
 - 🌱 I’m currently learning Java 
 
 
