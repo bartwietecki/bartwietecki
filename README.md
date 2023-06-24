@@ -1,5 +1,5 @@
 ### Hi there 👋, Bartek Wietecki
-#### Java Developer Wannabe
+#### Junior Java Developer
 ![Java Developer Wannabe](https://miro.medium.com/max/720/1*ihSYTw1xfPiIAqMzBf4g6g.webp)
 
 I'm Bartek from Poland, and I'm currently learning Java ☕
