@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Bartek Wietecki
 
-I'm Bartek from Poland, and I'm an ambitious Junior Java Developer who is currently improving his skills in this programming language. With a solid foundation in programming I am equipped with the knowledge and drive to make a meaningful impact in this field.
+I'm Bartek from Poland, and I'm an ambitious Junior Java Developer who is currently improving his skills in this programming language. With a solid foundation in programming I'm equipped with the knowledge and drive to make a meaningful impact in this field.
 
 ## Skills
 * ☕ Java
