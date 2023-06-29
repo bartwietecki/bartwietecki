@@ -1,6 +1,6 @@
 ### Hi there 👋, Bartek Wietecki
 #### Junior Java Developer
-![Junior Java Developer](https://miro.medium.com/max/720/1*ihSYTw1xfPiIAqMzBf4g6g.webp)
+![Junior Java Developer](https://github.com/bartwietecki/bartwietecki/blob/main/findout.png)
 
 I'm Bartek from Poland, and I'm an ambitious Junior Java Developer who is currently improving his skills in this programming language. With a solid foundation in programming I am equipped with the knowledge and drive to make a meaningful impact in this field.
 
